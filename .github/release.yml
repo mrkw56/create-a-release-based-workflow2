@@ -7,14 +7,14 @@ changelog:
     authors:
       - octocat
   categories:
-    - title: Breaking Changes 🛠
+    - title: Funny Changes 🛠
       labels:
-        - Semver-Major
-        - breaking-change
-    - title: Exciting New Features 🎉
+        - funny-Major
+        - funny-change
+    - title: Silly New Features 🎉
       labels:
         - Semver-Minor
         - enhancement
-    - title: Other Changes
+    - title: More funny Changes
       labels:
         - "*"
